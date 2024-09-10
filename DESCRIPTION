@@ -1,0 +1,11 @@
+#> Package: R.GitHub.Template
+#> Title: Starter Template for R Packages Hosted on GitHub
+#> Version: 1.0.0
+#> Authors@R (parsed):
+    * David White <dwhite@jaffacorp.com>
+#> Maintainer: Arial Israel <aisrael@jaffacorp.com>
+#> Description: A simple Hello World R script to demonstrate how to create an R package hosted on GitHub.
+#> License: MIT
+#> URL: https://github.com/jaffa-nj/template-r-lang
+#> BugReports: https://github.com/jaffa-nj/template-r-lang/issues
+#> Encoding: UTF-8

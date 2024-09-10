@@ -26,23 +26,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/github_username/repo_name">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+<h3 align="center">project_title</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    project_description
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -77,23 +77,11 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -123,8 +111,6 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -166,15 +152,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-* [x] Add Changelog
-* [x] Add back to top links
-* [ ] Add Additional Templates w/ Examples
-* [ ] Add "components" document to easily copy & paste sections of the readme
-* [ ] Multi-language Support
-  * [ ] Chinese
-  * [ ] Spanish
+* [ ] Feature 1
+* [ ] Feature 2
+* [ ] Feature 3
+  * [ ] Nested Feature
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,135 +175,49 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Top contributors
 
-<a href="https://github.com/othneildrew/Best-README-Template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=othneildrew/Best-README-Template" alt="contrib.rocks image" />
+<a href="https://github.com/github_username/repo_name/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=github_username/repo_name" alt="contrib.rocks image" />
 </a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-<!-- 
-High level summaries of various licenses may be found here:
-https://dev.to/buildwebcrumbs/explain-like-im-five-licenses-for-open-source-projects-16ob
--->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name \
-𝕏[@your_twitter](https://twitter.com/your_username) \
-📧[email@example.com](mailto:email@example.com) \
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - <email@email_client.com>
+
+Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-### Workflows
-
-#### repo-maint.yml
-
-* **File Path:** [`.github/workflows/repo-maint.yml`](.github/workflows/repo-maint.yml)
-
-* **Referenced Actions:**
-  * **[tiacsys/clean-after-action](https://github.com/tiacsys/clean-after-action)**
-    * **Summary:** Cleans up the workspace after the action runs.
-  * **[actions/stale](https://github.com/actions/stale)**
-    * **Summary:** Marks issues and pull requests as stale after a period of inactivity and closes them if no further activity occurs.
-  * **[dessant/lock-threads](https://github.com/dessant/lock-threads)**
-    * **Summary:** Locks issues and pull requests that have been closed for a specified period to prevent further comments.
-
-#### repo-config.yml
-
-* **File Path:** [`.github/workflows/repo-config.yml`](.github/workflows/repo-config.yml)
-
-* **Referenced Actions:**
-  * **[tiacsys/clean-after-action](https://github.com/tiacsys/clean-after-action)**
-    * **Summary:** Cleans up the workspace after the action runs.
-  * **[actions/checkout](https://github.com/actions/checkout)**
-    * **Summary:** Checks out the repository so the workflow can access it.
-  * **[actuarysailor/gha-repo-manager](https://github.com/actuarysailor/gha-repo-manager)**
-    * **Summary:** Manages repository settings based on a configuration file.
-
-#### release.yml
-
-* **File Path:** [`.github/workflows/release.yml`](.github/workflows/release.yml)
-
-* **Referenced Actions:**
-  * **[tiacsys/clean-after-action](https://github.com/tiacsys/clean-after-action)**
-    * **Summary:** Cleans up the workspace after the action runs.
-  * **[actions/checkout](https://github.com/actions/checkout)**
-    * **Summary:** Checks out the repository so the workflow can access it.
-  * **[googleapis/release-please-action](https://github.com/googleapis/release-please-action)**
-    * **Summary:** Automates the release process by creating release pull requests.
-
-#### pr-controls.yml
-
-* **File Path:** [`.github/workflows/pr-controls.yml`](.github/workflows/pr-controls.yml)
-
-* **Referenced Actions:**
-  * **[tiacsys/clean-after-action](https://github.com/tiacsys/clean-after-action)**
-    * **Summary:** Cleans up the workspace after the action runs.
-  * **[amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request)**
-    * **Summary:** Ensures pull request titles follow conventional commit guidelines.
-  * **[actions/labeler](https://github.com/actions/labeler)**
-    * **Summary:** Automatically labels pull requests based on the files they modify.
-  * **[codelytv/pr-size-labeler](https://github.com/codelytv/pr-size-labeler)**
-    * **Summary:** Labels pull requests based on their size to help reviewers prioritize.
-
-#### pre-commit.ci GitHub App
-
-The [pre-commit.ci](https://pre-commit.ci/) GitHub App is a powerful tool for automating code linting and formatting in your projects. By using a `.pre-commit-config.yaml` file in your repository, you can configure various hooks for different project types to ensure consistent code quality.
-
-To set up pre-commit.ci on your local machine, follow these steps:
-
-1. Install the pre-commit package by running `pip install pre-commit` in your project's root directory.
-2. Create a `.pre-commit-config.yaml` file in your repository's root directory.
-3. Configure the hooks you want to use in the `.pre-commit-config.yaml` file. For example, you can include hooks for code linting, formatting, and spell checking.
-4. Commit the `.pre-commit-config.yaml` file to your repository.
-5. Install the pre-commit hooks by running `pre-commit install` in your project's root directory.
-6. Now, every time you commit changes to your repository, pre-commit.ci will automatically run the configured hooks and provide feedback on any issues found.
-
-Similarly, you can install [pre-commit.ci](https://github.com/marketplace/pre-commit-ci) into your GitHub account or organization to have it automatically perform the tasks
-defined in the `.pre-commit-config.yaml` for each and every pull-request.
-
-By using pre-commit.ci, you can ensure that your code follows best practices and maintain consistent code quality across your team.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-url]: https://github.com/github_username/repo_name/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
+[stars-url]: https://github.com/github_username/repo_name/stargazers
+[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[issues-url]: https://github.com/github_username/repo_name/issues
+[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
