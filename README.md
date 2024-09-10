@@ -204,7 +204,7 @@ Don't forget to give the project a star! Thanks again!
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-<!-- 
+<!--
 High level summaries of various licenses may be found here:
 https://dev.to/buildwebcrumbs/explain-like-im-five-licenses-for-open-source-projects-16ob
 -->
