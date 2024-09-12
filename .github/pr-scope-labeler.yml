@@ -1,5 +1,6 @@
-# This file is used to configure the PR Scope Labeler action
-# in .github/workflows/pr-controls.yml
+# Copyright (C) 2024 actuarysailor
+# For license information, see:
+# https://github.com/actuarysailor/github-action-nodejs-local-file-copy/blob/main/LICENSE
 💻 Source:
   - changed-files:
       - any-glob-to-any-file:
@@ -68,4 +69,3 @@
           - .github/CODEOWNERS
           - .github/PULL_REQUEST_TEMPLATE.md
           - .github/settings.yml
-          - .github/workflows/repo-gov.yml
